@@ -21,5 +21,9 @@ public class Main {
         // CREATING CAR CLASS, THEN CALLING CAR CLASS
         Engine car = ac.getBean("engine1",Car.class);
         new keys().run(car);
+
+        // CREATING AEROPLACE CLASS, THEN CALLING AEROPLACE CLASS
+        Engine aeroplace = ac.getBean("aeroplace",Aeroplane.class);
+        new keys().run(aeroplace);
     }
 }

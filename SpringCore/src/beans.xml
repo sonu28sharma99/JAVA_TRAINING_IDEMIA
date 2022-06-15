@@ -6,8 +6,14 @@
 
     <!-- bean definitions here -->
 
+<!--    // BEANS IS NOTHING BUT THE OBJECT OF CLASS DEFINED XML FILE-->
+
+<!--    DECLARE BEANS FOR BIKE CLASS-->
     <bean id="engine" class="inversionOfControl.Bike"> </bean>
 
+<!--    DECLARE BEANS FOR CAR CLASS-->
     <bean id="engine1" class="inversionOfControl.Car"> </bean>
 
+<!--    DECLARE BEANS FOR AEROPLACE CALSS-->
+    <bean id="aeroplace" class="inversionOfControl.Aeroplane"></bean>
 </beans>
