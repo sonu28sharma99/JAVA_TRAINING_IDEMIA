@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e43480d1-a768-49e2-90ed-6826989dbab9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/.idea/libraries/groovy_4_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCore/.idea/libraries/groovy_4_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCore/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/out/production/SpringCore/inversionOfControl/Aeroplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/out/production/SpringCore/inversionOfControl/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/out/production/SpringCore/inversionOfControl/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/out/production/SpringCore/inversionOfControl/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/out/production/SpringCore/inversionOfControl/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCore/out/production/SpringCore/inversionOfControl/keys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDependencyInjection/src/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDependencyInjection/src/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDependencyInjection/src/learnDependencyInjection/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDependencyInjection/src/learnDependencyInjection/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDependencyInjection/src/learnDependencyInjection/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDependencyInjection/src/learnDependencyInjection/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDependencyInjection/src/learnDependencyInjection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDependencyInjection/src/learnDependencyInjection/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AsUQhvgtn5oVgrLBOCpo8hjOwM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jar Files for spring/commons-logging-1.2.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sonu.App" />
+      <module name="SpringAOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e43480d1-a768-49e2-90ed-6826989dbab9" name="Changes" comment="" />
+      <created>1655797772147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655797772147</updated>
+    </task>
+    <servers />
+  </component>
+</project>
